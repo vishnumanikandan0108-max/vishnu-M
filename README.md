@@ -25,4 +25,4 @@ I am a passionate 2nd-year Computer Science and Engineering student, aspiring Fu
 *   **Email:** vishnumcse25_29@ksrce.ac.in
 
 ---
-⭐️ *From building IoT hardware to training AI evaluation engines, I'm always building something new!*
+⭐️ *From building IoT hardware to training AI evaluation engines, I'm always building something new!* 
