@@ -1,28 +1,31 @@
 ### Hi there, I'm Vishnu M 👋
 
-I am a passionate 2nd-year Computer Science and Engineering student, aspiring Full-Stack Developer, and Cybersecurity enthusiast. I love building scalable applications, exploring AI/ML, and solving real-world problems through tech. Currently, I'm focused on mastering Data Structures and Algorithms (DSA) and building deep-tech projects for national-level hackathons! 🚀
+I’m a 2nd-year Computer Science and Engineering student, aspiring Full-Stack Developer, and Cybersecurity enthusiast.  
+I enjoy building scalable applications, exploring AI/ML, and solving real-world problems with code.
 
 #### 🛠️ Tech Stack & Skills
-*   **Languages:** Java, Python, JavaScript, HTML5, CSS3
-*   **Backend & Cloud:** Node.js, Supabase, REST APIs
-*   **AI/ML & IoT:** Python (AI/ML workflows), Raspberry Pi, ESP32, Edge Computing
-*   **Mobile & Web:** Mobile App Development, Progressive Web Apps (PWA)
-*   **Security & Networking:** Ethical Hacking fundamentals, Cisco Cybersecurity & Networking
-*   **Tools & Platforms:** Git, GitHub, VS Code
+- **Languages:** Java, Python, JavaScript, HTML5, CSS3
+- **Backend & Cloud:** Node.js, Supabase, REST APIs
+- **AI/ML & IoT:** Python, Raspberry Pi, ESP32, Edge Computing
+- **Mobile & Web:** Mobile App Development, Progressive Web Apps (PWA)
+- **Security & Networking:** Ethical Hacking fundamentals, Cisco Cybersecurity & Networking
+- **Tools & Platforms:** Git, GitHub, VS Code
 
-#### 🚀 What I'm currently working on:
-*   Building **Skill Proof** (AI-driven skill verification platform) and **V-POLE LITE** (Decentralized IoT print node) for the Ministry of MSME Idea Hackathon.
-*   Completing my **IBM SkillsBuild Internship** in AI/ML.
-*   Leveling up my competitive programming and DSA skills to crack elite engineering roles.
+#### 🚀 Currently Working On
+- Building **Skill Proof** — an AI-driven skill verification platform
+- Building **V-POLE LITE** — a decentralized IoT print node
+- Completing my **IBM SkillsBuild Internship** in AI/ML
+- Improving my competitive programming and DSA skills
 
-#### 🌱 Looking forward to:
-*   Collaborating on Open Source projects.
-*   Securing a high-impact internship in Web Development or Cybersecurity.
+#### 🌱 Looking Forward To
+- Contributing to open source
+- Securing a high-impact internship in Web Development or Cybersecurity
 
-#### 📫 How to reach me:
-*   **LinkedIn:**http://linkedin.com/in/vishnu-m-a2262b380
-*   **Portfolio:** https://vishnumanikandan.edgeone.dev/?eo_token=75b46122dda2829b99a027dc05a2929d&eo_time=1786552790
-*   **Email:** vishnumcse25_29@ksrce.ac.in
+#### 📫 Connect With Me
+- **LinkedIn:** [vishnu-m-a2262b380](http://linkedin.com/in/vishnu-m-a2262b380)
+- **Portfolio:** [vishnumanikandan.edgeone.dev](https://vishnumanikandan.edgeone.dev/?eo_token=75b46122dda2829b99a027dc05a2929d&eo_time=1786552790)
+- **Email:** vishnumcse25_29@ksrce.ac.in
 
 ---
-⭐️ *From building IoT hardware to training AI evaluation engines, I'm always building something new!*
+
+⭐ *From building IoT hardware to training AI evaluation engines, I’m always building something new!*
