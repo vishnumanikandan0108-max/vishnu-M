@@ -4,6 +4,14 @@
 
 I’m a 2nd-year Computer Science and Engineering student who enjoys building scalable applications, exploring AI/ML, and solving real-world problems with code.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnumanikandan0108-max&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnumanikandan0108-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ### 🚀 What I’m Working On
 - **Skill Proof** — an AI-driven skill verification platform
 - **V-POLE LITE** — a decentralized IoT print node
@@ -11,23 +19,15 @@ I’m a 2nd-year Computer Science and Engineering student who enjoys building sc
 - Improving my **DSA** and competitive programming skills
 
 ### 🛠️ Tech Stack
-**Languages**  
-Java • Python • JavaScript • HTML5 • CSS3
-
-**Frontend**  
-HTML • CSS • JavaScript • Progressive Web Apps (PWA)
-
-**Backend & Cloud**  
-Node.js • Supabase • REST APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,nodejs,git,github,vscode&theme=light" />
+</p>
 
 **AI/ML & IoT**  
 Python • Raspberry Pi • ESP32 • Edge Computing
 
 **Security & Networking**  
 Ethical Hacking fundamentals • Cisco Cybersecurity & Networking
-
-**Tools**  
-Git • GitHub • VS Code
 
 ### 📌 Featured Interests
 - Full-stack web development
