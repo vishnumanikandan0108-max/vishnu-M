@@ -16,7 +16,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnumanikandan0108-max&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
-I’m a 2nd-year Computer Science and Engineering student who enjoys building scalable applications, exploring AI/ML, and solving real-world problems with code.
+I’m Vishnu M, a 2nd-year Computer Science and Engineering student focused on building practical web apps, exploring AI/ML, and working on IoT-driven solutions.
 
 ### Featured Projects
 - **Skill Proof** — AI-driven skill verification platform
