@@ -1,8 +1,8 @@
 # Vishnu M
 
-## Full-Stack Developer • Cybersecurity Enthusiast • AI/ML Builder
-
-I’m a 2nd-year Computer Science and Engineering student who enjoys building scalable applications, exploring AI/ML, and solving real-world problems with code.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Builder;IoT+Explorer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnumanikandan0108-max&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -12,10 +12,17 @@ I’m a 2nd-year Computer Science and Engineering student who enjoys building sc
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnumanikandan0108-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+I’m a 2nd-year Computer Science and Engineering student who enjoys building scalable applications, exploring AI/ML, and solving real-world problems with code.
+
+### 🚀 Featured Projects
+- **[Skill Proof](#)** — AI-driven skill verification platform
+- **[V-POLE LITE](#)** — decentralized IoT print node
+- **[IBM SkillsBuild Internship Project](#)** — AI/ML learning and implementation work
+
 ### 🚀 What I’m Working On
-- **Skill Proof** — an AI-driven skill verification platform
-- **V-POLE LITE** — a decentralized IoT print node
-- **IBM SkillsBuild Internship** in AI/ML
+- Building **Skill Proof** — an AI-driven skill verification platform
+- Building **V-POLE LITE** — a decentralized IoT print node
+- Completing my **IBM SkillsBuild Internship** in AI/ML
 - Improving my **DSA** and competitive programming skills
 
 ### 🛠️ Tech Stack
